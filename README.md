@@ -84,7 +84,6 @@
 </div>
 
 ---
-<details><summary><h2> Some common Integrals </h2></summary>
 <!--<p>
 
 ```math
