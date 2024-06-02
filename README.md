@@ -82,13 +82,3 @@
     <!--<h1><strong>Connect with me on Discord</strong><br></h1>
     <a href="https://discord.com/users/757124773154127882" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/757124773154127882.png"/>-->
 </div>
-
-
-```math
-\huge \displaystyle \int e^{ax}\cos(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\cos(bx)+b\sin(bx)\right) + C
-```
- 
-</p>-->
-
-![Integrals](https://github.com/DarkMortal/DarkMortal/assets/67017303/ec7fdb17-0f0b-4a5a-be29-8718261a0885)
-</details>
