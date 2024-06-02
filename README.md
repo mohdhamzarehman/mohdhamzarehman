@@ -83,24 +83,6 @@
     <a href="https://discord.com/users/757124773154127882" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/757124773154127882.png"/>-->
 </div>
 
----
-<!--<p>
-
-```math
-\huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos(ax)}{x} dx = 0
-```
-    
-```math
-\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin(ax)}{x} dx = \frac{\pi}{2}
-```
-    
-```math
-\huge \displaystyle \int \limits_{-\infty}^{\infty} e^{-ax^2} dx = \huge \displaystyle 2 \int \limits_{0}^{\infty} e^{-ax^2} dx = \sqrt{\frac{\pi}{a}}
-```
-
-```math
-\huge \displaystyle \int e^{ax}\sin(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\sin(bx)-b\cos(bx)\right) + C
-```
 
 ```math
 \huge \displaystyle \int e^{ax}\cos(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\cos(bx)+b\sin(bx)\right) + C
