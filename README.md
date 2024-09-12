@@ -15,7 +15,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://github.com/mohdhamzarehman/mohdhamzarehman/blob/main/icons/about.png" width="37" /> 
     Resume
     </h2>
 </summary>
