@@ -1,7 +1,6 @@
 <h1 align="center">Hi,I'm Hamza</h1>
 <div align="center">
  <img alt="GIF" src=" https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZianNtNzF0bjUyNG9ienRjbDNud2d2eTA4N2dqZjZ6bmhrcmJvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CJRKhi0sixPav1P6MN/giphy.mp4"/>
- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZianNtNzF0bjUyNG9ienRjbDNud2d2eTA4N2dqZjZ6bmhrcmJvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CJRKhi0sixPav1P6MN/giphy.mp4
   <br>
 
 I am a passionate Fullstack Developer with a strong foundation in **MERN and Go Lang**
