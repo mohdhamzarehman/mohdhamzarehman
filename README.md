@@ -13,13 +13,6 @@
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN and Go** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 <details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/mohdhamzarehman/mohdhamzarehman/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
-
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
