@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Hamza</h1>
 <div align="center">
- <img alt="GIF"src="https://giphy.com/embed/CJRKhi0sixPav1P6MN/video" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/motivation-goku-warm-up-CJRKhi0sixPav1P6MN">via GIPHY</a></p> />
+ <img alt="GIF" href="https://giphy.com/clips/motivation-goku-warm-up-CJRKhi0sixPav1P6MN"/>
   <br>
 
 I am a passionate Fullstack Developer with a strong foundation in **MERN and Go Lang**
