@@ -10,4 +10,13 @@ I am a passionate Fullstack Developer with a strong foundation in **MERN and Go 
   ![LeetCode Stats](https://leetcode.card.workers.dev/rehman_hamza?theme=auto&font=baloo&extension=null)
 
   </div>
+  <details>
+  <summary><h2> <img align="center" src="https://github.com/mohdhamzarehman/mohdhamzarehman/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[mohdhamzarehman@gmail.com]">
+      <img align="center" src="https://github.com/mohdhamzarehman/mohdhamzarehman/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 </div>
