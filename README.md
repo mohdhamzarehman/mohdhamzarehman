@@ -38,20 +38,11 @@ I am a passionate Fullstack Developer with a strong foundation in **MERN and Go 
 ### Tools
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-<!-- 
-### DevOps 🚅
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
--->
-
 ### Databases 📦
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/>
 <!--[portfolio]: https://omeir.dev-->
-[gmail]: mailto:mohdhamzarehman@gmail.com
-[twitter]: https://twitter.com/hamzastwt
-[linkedin]: https://linkedin.com/in/mohdhamzarehman
-[leetcode]: https://leetcode.com/rehman_hamza
 
 <!-- Badges sourced from https://ileriayo.github.io/markdown-badges -->
 
