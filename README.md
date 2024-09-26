@@ -5,7 +5,6 @@
 
 I am a passionate Fullstack Developer with a strong foundation in **MERN and Go Lang**
   <div align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> 
 🔭 Currently working in React and Go.
 
 🌱 Learning Go and Rust
