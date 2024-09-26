@@ -7,8 +7,6 @@ I am a passionate Fullstack Developer with a strong foundation in **MERN and Go 
   <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> 
 
-# Hey there! I am <a href="https://omeir.dev">Omeir</a>  ![Profile Visits](https://komarev.com/ghpvc/?username=omeiirr)
-
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][portfolio]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/omeiirr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" className="twitter"/>][twitter]
