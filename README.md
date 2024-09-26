@@ -4,7 +4,6 @@
   <br>
 
 I am a passionate Fullstack Developer with a strong foundation in **MERN and Go Lang**
-  <div align="center">
 🔭 Currently working in React and Go.
 
 🌱 Learning Go and Rust
