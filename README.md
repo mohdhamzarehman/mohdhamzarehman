@@ -13,7 +13,7 @@ I am a passionate Fullstack Developer with a strong foundation in **MERN and Go 
 
 👯 Curious to learn about Web3
 
-🚀 2024 Goals: Contribute to open-source projects
+🚀 2025 Goals: Contribute to open-source projects
 
 <br />
 
