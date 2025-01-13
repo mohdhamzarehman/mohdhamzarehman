@@ -61,7 +61,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/rehman_hamza?theme=auto&font=baloo&extension=null)
-
   </div>
 </div>
