@@ -7,13 +7,9 @@ I am a passionate Fullstack Developer with a strong foundation in **MERN and Go 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdhamzarehman) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdhamzarehman@gmail.com) 
 
-🔭 Currently working in React and Go.
+🔭 Currently working in Typescript and Go.
 
-🌱 Learning Go and Rust
-
-👯 Curious to learn about Web3
-
-🚀 2025 Goals: Contribute to open-source projects
+🌱 Learning Go 
 
 <br />
 
